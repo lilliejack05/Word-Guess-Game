@@ -1,0 +1,52 @@
+style.css
+body {
+    padding: 0;
+    margin: 0;
+    font-family:  "Arial", Arial, sans-serif,
+    font-size:'18px';
+    width: 360%;
+    color: '#777';
+    background: '#777';
+  }
+  
+  header {
+    background: #161414;
+  }
+  
+  h1 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+    color: black
+    text-align: center;
+    background: black 
+  }
+  
+  h2 {
+    padding: 0;
+    margin: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+    color: #777
+    text-align: left;
+    background: #ebebeb
+  }
+  
+  P {color: #777;
+    background: #ebebeb
+    text-align:center
+  }
+  
+  #section{
+    float: left
+    width: 495px;
+  }
+  
+  footer {
+    font-size: 18px
+    width: 960px;
+    height: 200px;
+    margin-right: 20px;
+    text-align: center 
+  }
